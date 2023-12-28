@@ -8,8 +8,6 @@ I fell in love with development and now actively study it.
 
 * 🌍  I'm based in Saint-Petersburg
 * ✉️  You can contact me at [aleksejyurjev@gmail.com](mailto:aleksejyurjev@gmail.com)
-* 🚀  I'm currently working on [Metrica Design Studio](https://alexyuryevit.github.io/Metrica/)
-* 🧠  I'm learning HTML, CSS, JS, React, Node.JS
 * 🤝  I'm open to collaborating on any interesting projects to
 * ⚡  I'm Batman!
 
