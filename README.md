@@ -1,11 +1,13 @@
 <h1 align="left">Hi 👋, I'm Alex!</h1>
 <h3 align="left">A passionate frontend developer from Saint-P</h3>
 
-###
+<p>I am an experienced React front-end developer with more than 3 years of experience, I love working on interesting complex projects, sharing knowledge and learning new things.</p>
 
-- 🌱 I’m currently learning **Vue, Node.JS(Express)**
+- 💬 Feel free to ask me about **React and it's ecosystem**
 
-- 💬 Feel free to ask me about **React**
+- 🌱 I’m currently learning **Vue 3.5 and Node.JS(Express)**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
