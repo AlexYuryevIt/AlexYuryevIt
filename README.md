@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm Alex!</h1>
-<h3 align="left">A passionate frontend developer from Saint-P</h3>
 
 <p>I am an experienced React front-end developer with more than 3 years of experience, I love working on interesting complex projects, sharing knowledge and learning new things.</p>
 
